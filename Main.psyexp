@@ -36,7 +36,7 @@
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
-        <Param name="font" updates="constant" val="Calibri Light" valType="str"/>
+        <Param name="font" updates="constant" val="IRANSans" valType="str"/>
         <Param name="languageStyle" updates="None" val="Arabic" valType="str"/>
         <Param name="letterHeight" updates="constant" val="0.15" valType="code"/>
         <Param name="name" updates="None" val="targetText" valType="code"/>
@@ -75,7 +75,7 @@
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
-        <Param name="font" updates="constant" val="Calibri Light" valType="str"/>
+        <Param name="font" updates="constant" val="IRANSans" valType="str"/>
         <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
         <Param name="letterHeight" updates="constant" val="0.05" valType="code"/>
         <Param name="name" updates="None" val="instructionText" valType="code"/>
@@ -114,7 +114,7 @@
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
-        <Param name="font" updates="constant" val="Calibri Light" valType="str"/>
+        <Param name="font" updates="constant" val="IRANSans" valType="str"/>
         <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
         <Param name="letterHeight" updates="constant" val="0.075" valType="code"/>
         <Param name="name" updates="None" val="praText" valType="code"/>
