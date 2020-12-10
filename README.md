@@ -4,4 +4,6 @@ In psychology, the Stroop effect is the delay in reaction time between congruent
 "Wikipedia"
 
 ## Usage
+You should have installed ***PsychoPy***.
+<br>
 Check out `Master` branch for the project.
