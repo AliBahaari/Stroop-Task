@@ -3,4 +3,4 @@ In psychology, the Stroop effect is the delay in reaction time between congruent
 "Wikipedia"
 
 ## Usage
-Check out `Master` branch for project.
+Check out `Master` branch for the project.
